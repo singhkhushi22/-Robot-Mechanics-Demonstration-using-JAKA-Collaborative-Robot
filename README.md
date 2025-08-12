@@ -59,11 +59,21 @@ It connects theoretical mechanical concepts with real-world industrial robotics.
 
 ### 🖼 Links & Joints Diagram
 
-![JAKA Links & Joints Diagram](jaka_links_joints_diagram.png)
+![JAKA Links & Joints Diagram]
+<p align="center">
+  <img src="jaka_links_joints_diagram.png" width="30%">
+  <img src="cobot2.jpg" width="30%">
+  <img src="cobot3.jpg" width="30%">
+</p>
 
 ### 🎥 Demonstration Video
 
-[📺 Watch the Video](cobot.mp4)
+[📺 Watch the Video]
+<video width="600" controls>
+  <source src="cobot.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ### 🖼 Real Robot Photo 
 
