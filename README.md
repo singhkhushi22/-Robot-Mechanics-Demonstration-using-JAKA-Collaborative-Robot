@@ -67,7 +67,7 @@ It connects theoretical mechanical concepts with real-world industrial robotics.
 
 ### 🖼 Real Robot Photo 
 
-![Real JAKA Robot](Cobot1.png)
+![Real JAKA Robot](cobot1.jpg)
 
 ---
 
