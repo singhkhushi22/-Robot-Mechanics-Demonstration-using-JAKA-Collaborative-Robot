@@ -63,7 +63,7 @@ It connects theoretical mechanical concepts with real-world industrial robotics.
 
 ### 🎥 Demonstration Video
 
-[📺 Watch the Video](YOUR_VIDEO_LINK)
+[📺 Watch the Video](cobot.mp4)
 
 ### 🖼 Real Robot Photo 
 
