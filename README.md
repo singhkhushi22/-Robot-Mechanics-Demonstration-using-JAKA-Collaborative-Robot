@@ -65,9 +65,9 @@ It connects theoretical mechanical concepts with real-world industrial robotics.
 
 [📺 Watch the Video](YOUR_VIDEO_LINK)
 
-### 🖼 Real Robot Photo with Labeled Links & Joints
+### 🖼 Real Robot Photo 
 
-![Real JAKA Robot](YOUR_IMAGE_LINK)
+![Real JAKA Robot](Cobot1.png)
 
 ---
 
@@ -80,15 +80,7 @@ It connects theoretical mechanical concepts with real-world industrial robotics.
 
 ---
 
-## 🚀 Future Improvements
-
-* Add CAD diagrams of robot with labeled parts.
-* Show exploded views of each joint mechanism.
-* Include torque and payload analysis for each joint.
-
----
-
 ## 🏷 Author
 
 Khushi Singh
-📌 Internship Project at **zAcrobot Technologies Pvt. Ltd.
+📌 Internship Project at Acrobot Technologies Pvt. Ltd.
